@@ -64,9 +64,54 @@ Configured permissions using the principle of least privilege to reduce unnecess
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-*(Screenshots will be added here.)*
+---
+
+### 📁 Shared Folder Configuration
+
+This screenshot shows the creation of a shared folder used to simulate departmental file storage within an enterprise environment.
+
+![Shared Folder Configuration](images/shared-folder.png)
+
+---<img width="1448" height="1086" alt="415afd19-6665-4782-9234-bead88147ed2" src="https://github.com/user-attachments/assets/6e0c4922-6067-44be-a4f2-db4a16eb6fda" />
+
+
+### 🔐 NTFS Permission Management
+
+This screenshot shows NTFS permissions being configured to control access based on security groups and user roles.
+
+![NTFS Permissions](images/ntfs-permissions.png)
+
+---<img width="1448" height="1086" alt="ea3f8633-0a4c-4e93-96ec-53da20f95da5" src="https://github.com/user-attachments/assets/f1edd756-c0bd-40e2-9e6f-23b2b855a0de" />
+
+
+### 👥 Share Permission Configuration
+
+This screenshot shows the Share Permissions tab where network access permissions are configured for the shared folder.
+
+![Share Permissions](images/share-permissions.png)
+
+---<img width="1448" height="1086" alt="defab388-3e26-4b58-8772-14274b4b960d" src="https://github.com/user-attachments/assets/d54e2f16-0a35-4ffc-88b8-686de0c3f299" />
+
+
+### ✅ Access Validation
+
+This screenshot demonstrates testing access to the shared folder using a domain user account to verify the configured permissions.
+
+![Access Validation](images/access-validation.png)
+
+---<img width="1536" height="1024" alt="a19984dc-57af-4712-b2f6-be0b3d34a5fe" src="https://github.com/user-attachments/assets/ba6fd68a-1e6c-4326-a6dc-ecacbb3aa130" />
+
+
+### 🛡️ Least Privilege Implementation
+
+This screenshot shows the final permission configuration where access is granted only to authorized security groups following the principle of least privilege.
+
+![Least Privilege](images/least-privilege.png)
+
+---<img width="1536" height="1024" alt="671b9ad7-deff-4cd1-84e4-049b46d53c88" src="https://github.com/user-attachments/assets/74a9d4bb-67d0-46a5-8c61-964033031d25" />
+
 
 ---
 
